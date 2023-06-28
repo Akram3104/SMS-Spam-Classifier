@@ -1,0 +1,1 @@
+## This is a Machine Learning Project which classifies SMS as spam or not
