@@ -1,4 +1,5 @@
-# This is a Machine Learning Project which classifies SMS as spam or not
+# Machine Learning Project 
+- This is a machine learning project which classifies SMS as spam or not
 ## Files Description
 - spam.csv contains data of files which are to be classified as spam or not
 - model.pkl file contains machine learning model
